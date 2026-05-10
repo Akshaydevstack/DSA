@@ -67,3 +67,4 @@ Arr = [2,4,6,8,10]
 # newk =arr[-1:-2]
 
 # print(newk)
+
